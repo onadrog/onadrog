@@ -4,3 +4,5 @@
 -   📫 How to reach me sebastien.gordano@gmail.com
 
 - Here is my [**website**](https://onadrog.github.io/)
+
+(I use Arch btw)
